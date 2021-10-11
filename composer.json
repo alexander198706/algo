@@ -1,0 +1,11 @@
+{
+    "name": "alexander/algo",
+    "description": "algo framework",
+    "authors": [
+        {
+            "name": "huangks",
+            "email": "363562254@qq.com"
+        }
+    ],
+    "require": {}
+}

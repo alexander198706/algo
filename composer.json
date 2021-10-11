@@ -7,5 +7,6 @@
             "email": "363562254@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "stable"
 }

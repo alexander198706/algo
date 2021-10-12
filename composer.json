@@ -1,19 +1,19 @@
 {
     "name": "huangks/algo",
     "description": "algo framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "algo\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "huangks",
             "email": "363562254@qq.com"
         }
     ],
-    "require": {
-        "php":">=5.6"
-    },
     "minimum-stability": "dev",
-    "autoload": {
-
-        "psr-4": {"algo\\": "src"}
-        
-    }
+    "require": {}
 }
